@@ -32,4 +32,13 @@ I live in Central Texas with my significant other and we own two super awesome C
   <img width="460" height="300" src="https://github.com/jeff-mos-def/jeff-mos-def.github.io/blob/master/assets/images/ALLUS.jpg">
 </p>
 
+I'm a huge fitness nut and a crossfitter since 2016. I want to compile my fitness data sometime soon and display this here!
+
+I'm also interested in using my knowledge and skills to:
+
+* Offer marketing guidance to small business owners
+* Work with non-profits
+* Create educational material
+* Express myself through postings, such as this
+
 I look forward to adding much more to this page!
