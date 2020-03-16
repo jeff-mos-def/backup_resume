@@ -18,9 +18,7 @@ Now! About who I am!
 
 I am a United States Army veteran that served 7.5 years from Jan 2000 to Jul 2007. I served my time as a Special Electronics Device Repairer, now 94F, as separated as a Sergeant. 
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/jeff-mos-def/jeff-mos-def.github.io/blob/master/assets/images/REUP2004.jpg">
-</p>
+![alt text](https://github.com/jeff-mos-def/jeff-mos-def.github.io/blob/master/assets/images/FTIRWIN2004.jpg "GO ARMY BEAT NAVY")
 
 I left the military to enroll at Texas State University, in which I graduated with a degree in Electrical Engineering, with a focus on Micro-Nano Device Fabrication, and a Minor in Mathematics. It takes a deep breath to say all of that!
 
@@ -28,9 +26,7 @@ I've been working as a small business owner since 2018 and am using the marketin
 
 I live in Central Texas with my significant other and we own two super awesome Corgis.
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/jeff-mos-def/jeff-mos-def.github.io/blob/master/assets/images/ALLUS.jpg">
-</p>
+![alt text](https://github.com/jeff-mos-def/jeff-mos-def.github.io/blob/master/assets/images/ALLUS.jpg "My little family")
 
 I'm a huge fitness nut and a crossfitter since 2016. I want to compile my fitness data sometime soon and display this here!
 
