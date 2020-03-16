@@ -20,7 +20,7 @@ Once this is completed, go to [the download portion](https://rstudio.com/product
 
 OK! We've made it through getting our tools. Now let's take a look at what we have.
 
-![alt text](assets/images/RStudio3.jpg)
+![alt text](/images/RStudio3.jpg)
 
 Now that we've got a working environment to play in, let's take a look at some basic R/RStudio functions. Use CTRL+Enter to run each command.
 
