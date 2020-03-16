@@ -33,6 +33,12 @@ Here are some links to books and articles that I rather enjoy. I'm putting them 
 * [Generalized Estimating Equations (GEE) explainer](https://rlbarter.github.io/Practical-Statistics/2017/05/10/generalized-estimating-equations-gee/)
 * [Survival analysis tutorial](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html)
 
+
+### Veteran Resources
+
+* [LinkedIn Premium for Veterans](https://www.linkedin.com/help/linkedin/answer/14803/linkedin-for-veterans-free-premium-career-subscription-and-eligibility?lang=en): One year of LinkedIn Premium if you have served in the military. Take advantage of LinkedIn Learning, which is included, to brush up on your skills.
+* [Veterati](https://www.veterati.com/): Get one-on-one mentoring sessions with a vast pool of professionals. Great for transistioning veterans or those who need business advice.
+
 ### Other
 
 * [Dual Scale Axes](http://www.perceptualedge.com/articles/visual_business_intelligence/dual-scaled_axes.pdf): A critique of graphs with differently scaled axes. 
