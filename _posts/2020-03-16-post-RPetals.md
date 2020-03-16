@@ -20,7 +20,7 @@ Once this is completed, go to [the download portion](https://rstudio.com/product
 
 OK! We've made it through getting our tools. Now let's take a look at what we have.
 
-![alt text](https://github.com/jeff-mos-def/jeff-mos-def.github.io/blob/master/assets/images/RStudio3.jpg)
+![alt text](images/RStudio3.jpg)
 
 Now that we've got a working environment to play in, let's take a look at some basic R/RStudio functions. Use CTRL+Enter to run each command.
 
@@ -84,7 +84,7 @@ hist(flower$Sepal.Width,
 
 You should end up with a plot that looks like this:
 
-![alt text](https://github.com/jeff-mos-def/jeff-mos-def.github.io/blob/master/assets/images/HistogramEx.jpg)
+![alt text](images/HistogramEx.jpg)
 
 Once you've verified your plot, run the following commands at the end of your source code to clear everything out.
 
