@@ -84,7 +84,7 @@ hist(flower$Sepal.Width,
 
 You should end up with a plot that looks like this:
 
-![alt text](images/HistogramEx.jpg)
+![Histogram](images/HistogramEx.jpg)
 
 Once you've verified your plot, run the following commands at the end of your source code to clear everything out.
 
