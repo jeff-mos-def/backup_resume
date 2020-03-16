@@ -10,7 +10,7 @@ Here are some links to books and articles that I rather enjoy. I'm putting them 
 * [R for Data Science](https://r4ds.had.co.nz/): An excellent introduction to R and the tidyverse.
 * [Advanced R](http://adv-r.had.co.nz/): Complex concepts, like functional programming, using R.
 * [R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf): A humorous guide to base R
-* [Regular Expressions in R](http://stat545.com/block022_regular-expression.html): Simple examples because I can never remember the character classes.
+* [Regular Expressions in R](https://rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf): Simple examples because I can never remember the character classes.
 * [ggplot color reference](http://sape.inf.usi.ch/quick-reference/ggplot2/colour): Predefined colors and brewing.
 * [tableone](https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html): Tools for describing cohorts.
 * [R packages](http://r-pkgs.had.co.nz/): For package development and github.
