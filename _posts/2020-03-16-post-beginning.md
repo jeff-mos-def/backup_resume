@@ -1,10 +1,10 @@
 ---
 title: "To new beginnings... in March... the middle of it."
 categories:
-  - Blog
+  - Quote
 tags:
   - Literature
-  - Quote
+  - Hemingway
 ---
 
 > Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.
