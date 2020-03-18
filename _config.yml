@@ -63,7 +63,7 @@ analytics:
   google:
     tracking_id          : "UA-161040672-1"
     anonymize_ip         : false
-
+bing_site_verification: "0FC3FD70512616B052E755A56F8952D"
 
 author:
   name   : "Jeff Camacho"
