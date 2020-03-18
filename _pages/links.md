@@ -1,6 +1,8 @@
 ---
-permalink: /links/
-title: "Links"
+permalink: /resources/
+title: "Resources"
+header:
+  image: "/assets/images/resources.jpg"
 ---
 
 Here are some links to books and articles that I rather enjoy. I'm putting them up here in part so that I can find them in the future.
