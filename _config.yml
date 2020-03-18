@@ -56,6 +56,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-161040672-1"
+    anonymize_ip         : false
+
+
 author:
   name   : "Jeff Camacho"
   avatar : "/assets/images/Jeff.jpg"
