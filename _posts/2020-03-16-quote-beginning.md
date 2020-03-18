@@ -1,10 +1,10 @@
 ---
 title: "We used to live to be together, we now store each other away."
 categories:
-  - Blog
+  - Quote
 tags:
   - Literature
-  - Quote
+  - Steinbeck
 ---
 
 > “Maybe ever’body in the whole damn world is scared of each other.”
