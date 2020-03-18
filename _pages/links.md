@@ -8,7 +8,7 @@ Here are some links to books and articles that I rather enjoy. I'm putting them 
 ### R Programming
 
 * [R for Data Science](https://r4ds.had.co.nz/): An excellent introduction to R and the tidyverse.
-  [R Graphics Cookbook](https://r-graphics.org/index.html): A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly
+* [R Graphics Cookbook](https://r-graphics.org/index.html): A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly
 * [Advanced R](http://adv-r.had.co.nz/): Complex concepts, like functional programming, using R.
 * [R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf): A humorous guide to base R
 * [Regular Expressions in R](https://rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf): Simple examples because I can never remember the character classes.
