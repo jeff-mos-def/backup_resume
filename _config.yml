@@ -67,7 +67,8 @@ analytics:
 author:
   name   : "Jeff Camacho"
   avatar : "/assets/images/Jeff.jpg"
-  bio    : "Analyist, engineer, and crossfitter."
+  bio    : "Analyist, engineer, and crossfitter.
+            Passion for gadgets and a flair for problem solving."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
