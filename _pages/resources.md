@@ -10,9 +10,9 @@ Here are some links to books and articles that I rather enjoy. I'm putting them 
 ### R Programming
 
 * [R for Data Science](https://r4ds.had.co.nz/): An excellent introduction to R and the tidyverse.
-* [R Graphics Cookbook](https://r-graphics.org/index.html): A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly
+* [R Graphics Cookbook](https://r-graphics.org/index.html): A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly.
 * [Advanced R](http://adv-r.had.co.nz/): Complex concepts, like functional programming, using R.
-* [R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf): A humorous guide to base R
+* [R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf): A humorous guide to base R.
 * [Regular Expressions in R](https://rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf): Simple examples because I can never remember the character classes.
 * [ggplot color reference](http://sape.inf.usi.ch/quick-reference/ggplot2/colour): Predefined colors and brewing.
 * [tableone](https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html): Tools for describing cohorts.
@@ -22,15 +22,15 @@ Here are some links to books and articles that I rather enjoy. I'm putting them 
 
 ### Python
 
-* [Whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/): Basic introduction to Python
+* [Whirlwind tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/): Basic introduction to Python.
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc): Similarly simple introduction.
-* [Merging with pandas](https://stackoverflow.com/questions/53645882/pandas-merging-101): In depth guide to horizontal joins
+* [Merging with pandas](https://stackoverflow.com/questions/53645882/pandas-merging-101): In depth guide to horizontal joins.
 * [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html): Library for data manipulation.
-* [Seaborn](https://seaborn.pydata.org/index.html): Lovely plots for Python
+* [Seaborn](https://seaborn.pydata.org/index.html): Lovely plots for Python.
 
 ### Stats
 
-* [Non-parametric tests](http://www.stat.umn.edu/geyer/old03/5102/notes/rank.pdf): Simple non-parametric tests and example R code
+* [Non-parametric tests](http://www.stat.umn.edu/geyer/old03/5102/notes/rank.pdf): Simple non-parametric tests and example R code.
 * [Modeling with fixed, random, and mixed effects](https://rlbarter.github.io/Practical-Statistics/2017/03/03/fixed-mixed-and-random-effects/)
 * [Bootstrapping a confidence interval for correlation](https://blog.methodsconsultants.com/posts/understanding-bootstrap-confidence-interval-output-from-the-r-boot-package/)
 * [Generalized Estimating Equations (GEE) explainer](https://rlbarter.github.io/Practical-Statistics/2017/05/10/generalized-estimating-equations-gee/)
@@ -41,6 +41,7 @@ Here are some links to books and articles that I rather enjoy. I'm putting them 
 
 * [LinkedIn Premium for Veterans](https://www.linkedin.com/help/linkedin/answer/14803/linkedin-for-veterans-free-premium-career-subscription-and-eligibility?lang=en): One year of LinkedIn Premium if you have served in the military. Take advantage of LinkedIn Learning, which is included, to brush up on your skills.
 * [Veterati](https://www.veterati.com/): Get one-on-one mentoring sessions with a vast pool of professionals. Great for transistioning veterans or those who need business advice.
+* [Institue for Veterans and Military Families, IVMF](https://ivmf.syracuse.edu/) A great organization that will sponsor training *and* certification for a large amount of industry certifications.
 
 ### Other
 
