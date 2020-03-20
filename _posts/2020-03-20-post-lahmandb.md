@@ -10,7 +10,7 @@ tags:
   - Sabermetrics
 ---
 
-[Baseball season](/assets/images/baseballseason.jpg "Toronto Blue Jays, Rogers Centre")
+![Baseball season](/assets/images/baseballseason.jpg "Toronto Blue Jays, Rogers Centre")
 
 Ok, maybe it's not.... yet.
 
