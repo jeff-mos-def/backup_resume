@@ -2,6 +2,7 @@
 title: "Baseball and baseball accessories. R for sabermetrics."
 categories:
   - Blog
+  - Tutorial
 tags:
   - RStudio
   - Tutorial
