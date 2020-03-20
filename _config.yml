@@ -66,11 +66,13 @@ analytics:
     tracking_id          : "UA-161040672-1"
     anonymize_ip         : false
 bing_site_verification: "0FC3FD70512616B052E755A56F8952D"
+# google_site_verification: "d-46GrpXbLbdxeC_yoGHTfms_9QhqiQAP2I-H6Gdqi0"
 
 author:
   name   : "Jeff Camacho"
   avatar : "/assets/images/Jeff.jpg"
-  bio    : "Analyist, engineer, and crossfitter.
+  bio    : "Veteran, analyist, engineer, and crossfitter.
+  
             Passion for gadgets and a flair for problem solving."
   links:
     - label: "Email"
