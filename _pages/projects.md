@@ -11,5 +11,7 @@ header:
 
 ### [Fantasy Baseball Sabermetrics](https://github.com/jeff-mos-def/Fantasy-Baseball-with-R)
 
+ - [Project Kanban Timeline](https://github.com/jeff-mos-def/jeff-mos-def.github.io/projects/1)
+
 ### [Imaging and Color Representation](https://github.com/jeff-mos-def/portfolio/tree/master/projects/Imaging)
 
