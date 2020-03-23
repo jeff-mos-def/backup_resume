@@ -26,12 +26,7 @@ I left the military to enroll at Texas State University, in which I graduated wi
 
 I've also been fortunate to work with several Veteran's Business groups: Bunker Labs, Veteran's in Residence through Bunker Labs, and have been accepted into the Institute for Veterans and Military Families credentialing program for the Project Management Professional Certification.
 
-<p float="center">
-  
-  <a href="https://bunkerlabs.org/"> <img src="/assets/images/BL.png" width="300" /> <a href="https://bunkerlabs.org/our-programs/veterans-in-residence/"> <img src="/assets/images/VIR.png" width="150" /> <a href="https://ivmf.syracuse.edu/"> <img src="/assets/images/IVMF.png" width="300"/> 
-
-</a>
-
+<a href="https://bunkerlabs.org/"> <img src="/assets/images/BL.png" width="200" /> <a href="https://bunkerlabs.org/our-programs/veterans-in-residence/"> <img src="/assets/images/VIR.png" width="150" /> <a href="https://ivmf.syracuse.edu/"> <img src="/assets/images/IVMF.png" width="200"/> </a>
 
 I've been working as a small business owner since 2018 and am using the marketing and analytical skills gained from that opportunity to transition into data science. This page will outline much of the work I've been doing.
 
