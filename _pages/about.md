@@ -31,8 +31,11 @@ I've also been fortunate to work with several Veteran's Business groups: Bunker 
   <a href="https://bunkerlabs.org/"> <img src="/assets/images/BL.png" width="300" />
   <a href="https://bunkerlabs.org/our-programs/veterans-in-residence/"> <img src="/assets/images/VIR.png" width="150" /> 
   <a href="https://ivmf.syracuse.edu/"> <img src="/assets/images/IVMF.png" width="300"/> 
+
 </a>
+
 </p>
+
 
 I've been working as a small business owner since 2018 and am using the marketing and analytical skills gained from that opportunity to transition into data science. This page will outline much of the work I've been doing.
 
