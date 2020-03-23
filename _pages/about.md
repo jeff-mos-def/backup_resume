@@ -26,10 +26,6 @@ I left the military to enroll at Texas State University, in which I graduated wi
 
 I've been working as a small business owner since 2018 and am using the marketing and analytical skills gained from that opportunity to transition into data science. This page will outline much of the work I've been doing.
 
-I live in Central Texas with my significant other and we own two super awesome Corgis.
-
-![Family](/assets/images/ALLUS.jpg "My little family")
-
 I'm a huge fitness nut and a crossfitter since 2016. I want to compile my fitness data sometime soon and display this here!
 
 I'm also interested in using my knowledge and skills to:
