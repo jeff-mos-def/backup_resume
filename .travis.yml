@@ -11,4 +11,10 @@ cache:
   directories:
     - node_modules
 notifications:
-  email:       false
+  email:       #false OLD SETTING, TESTING CODE BELOW
+    recipients:
+      - jeff.d.camacho@gmail.com
+      - jeff@jeffcamacho.com
+    on_success: never # default: change
+    on_failure: always # default: always
+
