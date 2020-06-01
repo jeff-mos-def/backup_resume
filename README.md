@@ -6,7 +6,7 @@
 
 [![Resume Preview](assets/images/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview of Original Site](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
 ## Status
 
