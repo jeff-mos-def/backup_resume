@@ -19,7 +19,7 @@ This is done in many places, but in this example LinkedIn will be used as an ATS
 The datasets in this project will consist of the following:
 
 - Job Description (not included)
-- [Resume used for the description](https://raw.githubusercontent.com/jeff-mos-def/jeff-mos-def.github.io/master/assets/images/Resume%20Compare/Jeff%20Camacho_Resume_9Jun20_NAVAIR_FRC.txt)
+- Resume used for the description (not included due to reference contact info inside)
 - A [stopwords file](https://gist.githubusercontent.com/larsyencken/1440509/raw/53273c6c202b35ef00194d06751d8ef630e53df2/stopwords.txt) to remove irrelevant text from the search
 
 The focus here will be to measure comparison between the resume and the job description.
@@ -101,6 +101,10 @@ Before the next step can be completed, it needs to be known what stop words are.
 An entire file can be created to designate what stop words are needed to be filtered out, but a [stop words file from GitHub](https://gist.github.com/larsyencken/1440509) will be used to expedite this process. Additional words will be added on to this list as seen fit.
 
 First, the word count of the job posting will be looked at.
+
+```
+import pandas as pd
+```
 
 ```
 # Read input file, note the encoding is specified here 
