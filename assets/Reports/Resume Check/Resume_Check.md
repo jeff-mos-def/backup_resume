@@ -183,3 +183,5 @@ It can be said that tenacity does play a factor in the job search process, somet
 # E. Conclusion
 
 The ATS is a system that needs to be overcome in order to have a resume pass through the initial filters in the job search activity. However, it is not the only thing that is measured. If a resume is submitted and rejected, do not hesitate to follow back up and ask what the cause of the rejection was for. On the other hand, one should always prepare their resume to match each and every job description as closely as possible.
+
+Further work on this project will include tabular word counts for direct display.
