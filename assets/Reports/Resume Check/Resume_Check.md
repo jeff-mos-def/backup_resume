@@ -12,6 +12,8 @@ This is done in many places, but in this example LinkedIn will be used as an ATS
 
 ![ATS](https://raw.githubusercontent.com/jeff-mos-def/jeff-mos-def.github.io/master/assets/images/Resume%20Compare/ATS_Example.jpg)
 
+In this entry, a comparative ATS-like python script will be used to compare a resume to a job posting.
+
 -----
 
 ## A.2 Data Selection
