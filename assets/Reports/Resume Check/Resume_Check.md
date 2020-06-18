@@ -103,6 +103,10 @@ An entire file can be created to designate what stop words are needed to be filt
 First, the word count of the job posting will be looked at.
 
 ```
+import pandas as pd
+```
+
+```
 # Read input file, note the encoding is specified here 
 
 a= posting
