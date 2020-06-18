@@ -19,7 +19,7 @@ This is done in many places, but in this example LinkedIn will be used as an ATS
 The datasets in this project will consist of the following:
 
 - Job Description (not included)
-- [Resume used for the description](https://raw.githubusercontent.com/jeff-mos-def/jeff-mos-def.github.io/master/assets/images/Resume%20Compare/Jeff%20Camacho_Resume_9Jun20_NAVAIR_FRC.txt)
+- Resume used for the description (not included due to reference contact info inside)
 - A [stopwords file](https://gist.githubusercontent.com/larsyencken/1440509/raw/53273c6c202b35ef00194d06751d8ef630e53df2/stopwords.txt) to remove irrelevant text from the search
 
 The focus here will be to measure comparison between the resume and the job description.
